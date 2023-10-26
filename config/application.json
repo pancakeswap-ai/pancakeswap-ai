@@ -1,6 +1,7 @@
 {
 	"apk":{
 		"downloadUrl":"https://www.pgyer.com/bODF6z",
-		"githubDownloadUrl":"https://github.com/pancakeswap-ai/pancakeswap-ai/releases/download/2.0.8/PancakeSwapAi_v2.0.8.1.apk"
+		"githubDownloadUrl":"https://github.com/pancakeswap-ai/pancakeswap-ai/releases/download/2.0.8/PancakeSwapAi_v2.0.8.1.apk",
+		"content":"1、更新downloadUrl;"
 	}
 }
