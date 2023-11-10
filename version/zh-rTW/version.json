@@ -1,1 +1,1 @@
-{"id":1,"note":"1，增加21元宇宙獸神精美分享頁面;2，優化了升級功能。","packageName":"com.pancakeswap.ai","url":"https://github.com/pancakeswap-ai/pancakeswap-ai/releases/download/2.0.8.2/PancakeSwapAi_v2.0.8.2.apk","versionName":"2.0.8.2"}
+{"id":1,"note":"1、AI交易增加滑點配置功能，解決滑點原因導致交易失敗的問題;2、優化每日簽到成長值提交邏輯;3、其他已知bug","packageName":"com.pancakeswap.ai","url":"https://github.com/pancakeswap-ai/pancakeswap-ai/releases/download/2.0.8.3/PancakeSwapAi_v2.0.8.3.apk","versionName":"2.0.8.3"}
