@@ -4,5 +4,8 @@
 		"githubDownloadUrl":"https://github.com/pancakeswap-ai/pancakeswap-ai/releases/download/2.0.8.2/PancakeSwapAi_v2.0.8.2.apk",
 		"content":"1、更新downloadUrl;"
 	},
-	"daySignInGrowthValue": 5
+	"daySignInGrowthValue": 5,
+	"firstGrowthLevelRewardU":7.7,
+	"secondGrowthLevelRewardU":5,
+	"thirdGrowthLevelRewardU":3.7
 }
