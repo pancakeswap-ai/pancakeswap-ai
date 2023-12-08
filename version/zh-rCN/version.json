@@ -1,1 +1,1 @@
-{"id":1,"note":"1.优化闪退及部分bug;2.优化成长值奖励分配","packageName":"com.pancakeswap.ai","url":"https://github.com/pancakeswap-ai/pancakeswap-ai/releases/download/2.0.8.7/PancakeSwapAi_v2.0.8.7.apk","versionName":"2.0.8.7"}
+{"id":1,"note":"1、修复交易报错提示失败;2、修复交易价格显示错误;3、修复交易抽奖次数遗漏。","packageName":"com.pancakeswap.ai","url":"https://github.com/pancakeswap-ai/pancakeswap-ai/releases/download/2.0.8.8/PancakeSwapAi_v2.0.8.8.apk","versionName":"2.0.8.8"}
