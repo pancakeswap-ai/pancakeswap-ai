@@ -5,7 +5,7 @@
 		"content":"1、更新downloadUrl;"
 	},
 	"daySignInGrowthValue": 5,
-	"firstGrowthLevelRewardU":7.7,
-	"secondGrowthLevelRewardU":5,
-	"thirdGrowthLevelRewardU":3.7
+	"firstGrowthLevelRewardU":2.31,
+	"secondGrowthLevelRewardU":1.5,
+	"thirdGrowthLevelRewardU":1.11
 }
