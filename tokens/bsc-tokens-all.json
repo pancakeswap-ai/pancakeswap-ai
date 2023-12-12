@@ -11,14 +11,6 @@
         "patch":0
     },
     "tokens":[
-		{
-			"chainId":56,
-            "name":"🐉",
-            "address":"0x9D3245a6B7Fd03e98A02F9a126D37a9d4c9F4123",
-            "decimals":18,
-            "symbol":"🐉",
-            "logoURI":"https://www.logofacade.com/token_icon_request/652b1595d4754e356189ae1b_1697322389.png"
-		},
         {
             "chainId":56,
             "name":"Novacoin",
