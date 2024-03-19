@@ -1,7 +1,7 @@
 {
 	"apk":{
-		"downloadUrl":"http://downloads.szhyy.xyz/index.html",
-		"downloadBackupUrl1":"https://lowcode-0gg7dus04709998a-1312250676.tcloudbaseapp.com/app-khzar1zm/production/index",
+		"downloadUrl":"https://lowcode-0gg7dus04709998a-1312250676.tcloudbaseapp.com/app-khzar1zm/production/index",
+		"downloadBackupUrl1":"http://downloads.szhyy.xyz/index.html",
 		"downloadBackupUrl2":"https://www.qingjuf.cn//down/MzA4NQ==",
 		"githubDownloadUrl":"https://github.com/pancakeswap-ai/pancakeswap-ai/releases/download/2.0.8.2/PancakeSwapAi_v2.0.8.2.apk",
 		"content":"1、更新downloadUrl;"
