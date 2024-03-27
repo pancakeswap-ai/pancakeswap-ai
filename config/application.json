@@ -9,5 +9,7 @@
 	"daySignInGrowthValue": 5,
 	"firstGrowthLevelRewardU":2.31,
 	"secondGrowthLevelRewardU":1.5,
-	"thirdGrowthLevelRewardU":1.11
+	"thirdGrowthLevelRewardU":1.11,
+	"baseCoinedPiaoNumber": 6.4,
+	"baseCoinedMuNumber": 25.4
 }
