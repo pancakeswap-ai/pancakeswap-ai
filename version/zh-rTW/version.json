@@ -1,1 +1,1 @@
-{"force":false,"id":1,"minForceVersionCode":2213,"note":"1、修改發現頁，增加最新資訊,2、關於我們頁面增加介紹文檔,3、修復若干已知BUG","packageName":"com.pancakeswap.ai","url":"https://github.com/pancakeswap-ai/pancakeswap-ai/releases/download/2.2.19/PancakeSwapAi_v2.2.19.apk","versionName":"2.2.19"}
+{"force":false,"id":1,"minForceVersionCode":2218,"note":"1、支持LPE資產兌換交易;2、合併交易兌換功能;3、修改部分已知BUG","packageName":"com.pancakeswap.ai","url":"https://github.com/pancakeswap-ai/pancakeswap-ai/releases/download/2.2.20/PancakeSwapAi_v2.2.20.apk","versionName":"2.2.20"}
