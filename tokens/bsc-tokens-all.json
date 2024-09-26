@@ -11,14 +11,6 @@
         "patch":0
     },
     "tokens":[
-		{
-			"chainId":56,
-            "name":"LPE",
-            "address":"0xbA947bE11B2Bde24F661F167121c03aDF7321AaA",
-            "decimals":18,
-            "symbol":"LPE",
-            "logoURI":"http://154.211.12.38:9400/imgs/ic_lpe.png"
-		},
         {
             "chainId":56,
             "name":"Novacoin",
