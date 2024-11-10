@@ -1,1 +1,1 @@
-{"force":false,"id":1,"minForceVersionCode":2301,"note":"1、修改已知BUG","packageName":"com.pancakeswap.ai","url":"","versionName":"2.3.3"}
+{"id":1,"minForceVersionCode":2303,"note":"1、兌換增加路由; 2、修改部分已知BUG","packageName":"com.pancakeswap.ai","url":"","versionName":"2.3.4"}
